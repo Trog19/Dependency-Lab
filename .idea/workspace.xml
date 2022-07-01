@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f50ff4fe-f6cc-472d-8fdd-66f1e25e4443" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Attacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClapTrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Lightsaber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Shot_Gun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Werewolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Werewolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Werewolf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/tsrog/IdeaProjects/Dependency_Inj_Lab"
   }
 }]]></component>
   <component name="RunManager">

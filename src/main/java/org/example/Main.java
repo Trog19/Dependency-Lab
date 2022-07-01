@@ -9,10 +9,9 @@ public class Main {
     Bow bow = new Bow();
     ClapTrap clapTrap = new ClapTrap(bow);
         Robot robot_one = new ClapTrap(bow);
-        System.out.println(robot_one.name);
         robot_one.Attack();
 
-        Attacker wolf_one = new Werewolf(bow);
+        Attacker wolf_one = new Werewolf("Bob", 85);
 
         wolf_one.Attack();
 
